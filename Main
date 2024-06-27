@@ -1,0 +1,15 @@
+
+public class Main {
+
+	public static void main(String[] args) {
+		
+		Piano p = new Piano();
+		Flute f = new Flute();
+		Guitar g = new Guitar();
+		p.play();
+		f.play();
+		g.play();
+
+	}
+
+}
